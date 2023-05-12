@@ -13,14 +13,21 @@ That being said there are quite a few dependencies/libraries in the jupyter note
 
 Dependencies include:
 
-torch\n
-torchvision\n
-cudatoolkit\n
-numpy\n
-torchsummary\n
-matplotlib\n
-sklearn\n
-scikitplot\n
+torch
+
+torchvision
+
+cudatoolkit
+
+numpy
+
+torchsummary
+
+matplotlib
+
+sklearn
+
+scikitplot
 
 If you wish to seek out the dataset yourself, there are several PlantVillage dataset variations that can be used. The data set that i used in this project is located here:
 
