@@ -1,7 +1,10 @@
 # Plant-Diseases
 Introduction to Deep Learning Final Project - Classification of Plant Diseases
+
 By: Ethan Rocheleau
+
 For: Final Project Deep Learning
+
 University of Montana
 
 All related project files are located in this repository including the dataset PlantVillage. Mind you the file size is roughly 900 MB because of the nature of there being 50,000 images located in the dataset. 
